@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Dhaka",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Very bad",
+      "position": {
+        "lat": 23.759697687969837,
+        "lng": 90.3901388010098
+      },
+      "id": 9875453
+    },
+    {
+      "cityName": "Bazaiges",
+      "country": "France",
+      "date": "2023-10-24T18:43:59.474Z",
+      "emoji": "🇫🇷",
+      "notes": "",
+      "position": {
+        "lat": "46.483464955959874",
+        "lng": "1.5322195858346401"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Poitiers",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-24T18:47:42.985Z",
+      "notes": "Not working",
+      "position": {
+        "lat": "46.58953649922628",
+        "lng": "0.3185923767542543"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Rajshahi",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2023-10-24T18:50:06.231Z",
+      "notes": "Was a good life there\n",
+      "position": {
+        "lat": "24.37590070023791",
+        "lng": "88.61459771244559"
+      },
+      "id": 98443200
+    }
+  ]
+}
