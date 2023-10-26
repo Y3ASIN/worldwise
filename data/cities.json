@@ -49,18 +49,6 @@
       "id": 98443198
     },
     {
-      "cityName": "Poitiers",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-10-24T18:47:42.985Z",
-      "notes": "Not working",
-      "position": {
-        "lat": "46.58953649922628",
-        "lng": "0.3185923767542543"
-      },
-      "id": 98443199
-    },
-    {
       "cityName": "Rajshahi",
       "country": "Bangladesh",
       "emoji": "🇧🇩",
